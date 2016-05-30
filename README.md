@@ -9,8 +9,9 @@ Professor Carter
 CS3600
 18 May 2016
 
-	Originally, we had many different ideas on what our graphics project was going to be. We thought of creating an animation, but then we all had different ideas of creating games. We first individually practiced playing around with Blender where we all had enough experience to create a simple game. 
-	We finally agreed to create a simple game that resembled the old Donkey Kong game, where Mario would climb ladders and avoid barrels as he reaches the top to save Princess Peach. Our game is similar with our own simple twist, the snowman has to save the princess while avoiding barrels and “quicksand”. The objective is just to reach the top to be with the princess.
+Originally, we had many different ideas on what our graphics project was going to be. We thought of creating an animation, but then we all had different ideas of creating games. We first individually practiced playing around with Blender where we all had enough experience to create a simple game. 
+
+We finally agreed to create a simple game that resembled the old Donkey Kong game, where Mario would climb ladders and avoid barrels as he reaches the top to save Princess Peach. Our game is similar with our own simple twist, the snowman has to save the princess while avoiding barrels and “quicksand”. The objective is just to reach the top to be with the princess.
 
 How to play the game:
 
