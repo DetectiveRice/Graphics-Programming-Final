@@ -19,6 +19,8 @@ Originally, we had many different ideas on what our graphics project was going t
 
 We finally agreed to create a simple game that resembled the old Donkey Kong game, where Mario would climb ladders and avoid barrels as he reaches the top to save Princess Peach. Our game is similar with our own simple twist, the snowman has to save the princess while avoiding barrels and “quicksand”. The objective is just to reach the top to be with the princess.
 
+I had contributed a lot of ideas including making a voxel-based graphics engine, but I modeled the tank we had used that is "throwing" the barrels. The voxel-based graphics engine is now another project I am working on.
+
 How to play the game:
 
 Open Blender and open the .blend file
